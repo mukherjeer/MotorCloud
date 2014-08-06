@@ -23,6 +23,7 @@
 	
 <html>
 <body>
+<!-- Displaying all the players in the database-->
 	<table style="width:300px">
 		<tr>
 		  <td>STAGE NAME</td>
